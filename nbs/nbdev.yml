@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "online-spreadsheet-skiller"
+  site-url: "https://aiola-lab.github.io/online-spreadsheet-skiller"
+  description: "Python library to simplify aiOla skills access to online spreadsheets (Google Sheets or Microsoft Workbooks)"
+  repo-branch: master
+  repo-url: "https://github.com/aiola-lab/online-spreadsheet-skiller"
